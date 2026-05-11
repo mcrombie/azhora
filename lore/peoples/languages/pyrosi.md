@@ -280,6 +280,9 @@ The West Pyrosi formal VSO is either a grammatical habit or a philosophical posi
 | *kolvoss* | II | the area around a fumarole; ritual ground | Same root, class shift: the fumarole breathes; its ground is fixed |
 | *khoth* | II | a volcanic ridge; ancient stone formation | *kh-* onset; characteristic of deep-ground vocabulary |
 | *velr* | II | the resonance; what the ground says | Taler: *velrr*; named in the script character *rraell* |
+| *talross* | I | a lava flow; fire in motion | *tal* (fire) + *-ross* (flowing-matter; from *pyross*, the matter that fire becomes). Class I: it moves. Contrast with *pyrant* (Class II: the ash that has settled and become soil). *Talross* and *pyrant* are the two states of the same material |
+| *kolvell* | I | steam from a fumarole; ground-breath | *kelv* (fumarole) + *-ell* (tongue; speech). What the ground says when you can hear it. Class I. The Tallyss word *kholl* may be an archaic form of *kolvell*, or the archaic original — the practitioners do not distinguish |
+| *llos-pyros* | II | the black soil layer; the deep volcanic record | *llos* (volcanic ash) + *pyros* (ash-country). The stratum beneath the *pyrant* (active fertile soil): older, denser, less productive but more legible. West Pyros farmers who dig deep enough read the *llos-pyros* as the land's history — each dark layer is a fire the land remembers |
 
 ### Speech, Language, Knowledge
 
@@ -309,6 +312,47 @@ The West Pyrosi formal VSO is either a grammatical habit or a philosophical posi
 | *sol* | II | peers; those who stand together | Also the familiar register prefix |
 | *homath* | II | house; building | Cognate with Mittoli *homath*; preserved identically |
 | *kělvan* | I | a river-trader; one who follows the water routes | *kěl* + *-van* (Pyrosi agent suffix: one who follows or works with) |
+| *talmarr* | I | fire-keeper; a holder of the Fire Memory | *tal* + *-marr* (one-who-tends). Not anyone who maintains a fire; specifically the role in the Tallyss tradition. Distinguished from a *velran* (teacher) by what they tend |
+| *velranoss* | II | a school; the body of teaching | *velran* (teacher) + *-oss* (collective/institution). Where *llyr* is built |
+| *vorng* | I | elder; one who has turned; an ancestor | From *vorn* (sky-pivot; north) — one who has completed a full cycle of life, as the sky pivots around the northern point. Class I: still living and acting. The dead *vorng* are addressed in *kael-* even in memory |
+
+### Directions and Position
+
+| Pyrosi | Class | Meaning | Notes |
+|---|---|---|---|
+| *vorn* | II | north; the sky-pivot | Cognate with Mittoli *vorn* ("to turn northward"). Both from Proto-Western; the same directional root preserved in both families |
+| *drell* | II | south; the descent | Cognate with Mittoli *drel*. Final gemination is a Pyrosi regularization in high-frequency short words — distinguishes the directional noun from the verb root *drel-* |
+| *nnros* | II | east; morning-side | From Proto-Western *nyro* (Mittoli *nyro*) via the *ny*→*nn* shift. Appears as *nnrossel* in the Nyross place name |
+| *sěll* | II | west; rain-side; the sea direction | From Proto-Western *sael* (Mittoli *sael*) via *ae*→*ě*. "The direction water and cold come from." West Pyros sits in the wet shadow of *sěll*; East Pyros is the rain-shadow left when *sěll* has nothing more to give |
+| *mittel* | II | center; the balanced point | Cognate with Mittoli *mitt* (middle, center, balanced; also "fair"). Same Proto-Western root, preserved identically in both families. The Mittolo heartland and the concept of balance share one word in both languages |
+| *khovarn* | II | the navigable ridge; a high-point landmark | *khoth* (volcanic ridge) + *-varn* (travel-path, agent). Used in giving directions across the uplands: "go to the khovarn and follow it west." |
+
+### Sky, Time, and Seasons
+
+| Pyrosi | Class | Meaning | Notes |
+|---|---|---|---|
+| *talvan* | I | dawn; the fire-rise | *tal* (fire) + *vel-* (to rise). The moment fire comes over the horizon. Class I: still in motion |
+| *talvoss* | II | dusk; the fire-descent | *tal* + *drell* (descent). The moment fire settles below the ridge. Class II: a completed state |
+| *talvoss-kholv* | II | the gap after dusk; the time between fire-descent and first stars | *talvoss* + *kholv* (the silent gap; the intake of breath). The interval when the sky holds neither fire nor stars. Considered an ambiguous time in the Fire Memory tradition — the land is listening |
+| *lleth-oss* | II | winter; the latent season | *lleth-* (latent, waiting) + *oss* (stone). The season when growth exists in the ground but has not yet moved. Not dead; latent. The language does not permit calling winter dead |
+| *vel-lossyr* | II | a year; the returning twelve | *vel-* (to rise, to return) + *lossyr* (twelve). Twelve months that complete and return. The year is named for its ending, not its beginning |
+| *kholv-vel* | I | the new year; the moment of return | *kholv* (the gap, the intake of breath) + *vel-* (the rising). The interval between the old year and the new one, treated as a living moment rather than a date |
+| *lossyr-velon* | II | the Great Year; one orbit of Ossian | Twelve solar years. *Lossyr* (twelve) + *velon* (full count; borrowed from Mittoli, Pyrosi uses the Mittoli word without alteration for this scale of reckoning, as the concept arrived with astronomical exchange). Ossian's twelve-year orbit organizes long-term memory, legal records, and genealogical reckoning |
+| *lossyr-gall* | II | a generation; one completed Great Year | *lossyr-velon* (twelve years) + *gall-* (completion, crossing). The twelve-year period as a unit of human time: "three *lossyr-gall* ago" is a standard historical measure in West Pyrosi speech |
+
+### Social and Register Vocabulary
+
+Pyrosi has more words for the structure of social relationships than for most other domains, because the register system makes those relationships grammatically visible. Speakers who must name the register they are in naturally develop vocabulary for what those registers mean.
+
+| Pyrosi | Class | Meaning | Notes |
+|---|---|---|---|
+| *solyan* | I | a familiar companion; one you are in *sol-* register with | *sol* (familiar register) + *-an* (person-forming). Not "friend" exactly — *solyan* names the relationship by its register. Someone can be *solyan* without being liked; the register describes an established mutual recognition, not warmth |
+| *vaer-gall* | II | the threshold-crossing; the moment of welcome completed | *vaer* (social register) + *gall* (completion). The moment when the Social register becomes stable — when a stranger has been fully made a guest. Also used as verb *vaer-gallyr*: "to complete a welcome" |
+| *neth-gall* | II | full intimacy; entry into the home circle | *neth* (the home circle) + *gall* (completion). The moment someone is permanently received into *neth-* — through marriage, adoption, or a bond of enough history to make the transition irreversible. It is marked, not assumed |
+| *solrath* | II | register-debt; the weight of an unacknowledged relationship | *sol* + *-rath* (weight, burden). What accumulates when speaker and listener have not settled which register they are in — or when someone has used the wrong one without correction. Neither party discusses it directly. Both feel it |
+| *ell-solrath* | II | speech-debt; obligation created by imprecision | *ell* (speech) + *solrath*. A broader concept: anything you have said in the wrong register, said incompletely, or not said when it was needed. The obligation that attaches to language used incorrectly |
+| *kael-ran* | I | the elevated-one; whoever you address in *kael-* | *kael* (elevated register) + *-ran* (the addressed one). Not a permanent title. Whoever you are currently addressing in *kael-* is your *kael-ran* in that moment — whether elder, the land, or the dead |
+| *ossyan* | I | a witness to something permanent | *oss-* (to mark, to cut into permanence) + *-an* (person). One present at an *oss-yr* moment — when something becomes official, named, or permanently recorded. The *ossyan* is mentioned in legal formulae: a transaction witnessed by fewer than two *ossyan* is considered *vel-gall* ("still crossing," not yet complete) |
 
 ### Verbs (Roots)
 
@@ -325,6 +369,12 @@ The West Pyrosi formal VSO is either a grammatical habit or a philosophical posi
 | *mill-* | *millyr* | to see; to perceive | Pyrosi preserves the geminate; Mittoli has *mil-* |
 | *gall-* | *gallyr* | to cross; to ford; to complete a passage | Pyrosi geminate of Mittoli *gal-* |
 | *toss-* | *tossyr* | to burn; to be hot; to be intensely present | Primary paradigm example verb |
+| *drel-* | *drelyr* | to descend; to fall; to go south | Cognate with Mittoli *drelael*. Stable across Proto-Western; both families use it the same way |
+| *neth-* | *nethyr* | to draw into one's circle; to receive permanently | The verb form of *neth* (home circle). To *nethyr* someone is to extend the *neth-* register to them as a permanent act. The object of *nethyr* undergoes *neth-gall* |
+| *soll-* | *sollyr* | to stand alongside; to recognize as equal | From the *sol-* register; the verb form of peer-recognition. To *sollyr* someone is to establish the *sol-* register with them for the first time. A social act, acknowledged on both sides |
+| *pyross-* | *pyrossyr* | to become permanent record; to leave a readable trace | What fire does to everything it touches: makes the remainder that persists. *Pyrossyr* is used metaphorically for any event that has become part of the indelible past — "that day *pyrossed*" means it cannot be undone or misremembered now |
+| *vel-kěl-* | *vel-kělyr* | to flow back; to return as water returns | Compound of *vel-* (return) and *kěl-* (flow). Describes specifically the return of something that travels in cycles — seasonal floods, migrating people, recurring events. More vivid than *velyr* alone; the returning has the quality of water |
+| *khoth-* | *khothyr* | to stand as a ridge; to act as a boundary | Verb form of *khoth* (volcanic ridge). To *khothyr* is to divide two things, to be the line that separates. Used literally of terrain and figuratively of people or decisions that separate what was joined |
 
 ### Numbers
 
