@@ -3,7 +3,7 @@ name: The Ascarth Peninsula
 category: geography
 tags: [Ascarth, Aevis, Avites, bronze, warrior culture, heroic, peninsula, Iberos Coast, kingdom, city-state]
 status: draft
-related: [Iberos Coast, Nylon, Svaleen, Azhora, Lizeem River]
+related: [Iberos Coast, Nylon, Svaleen, Selemis, Azhora, Lizeem River]
 ---
 
 # The Ascarth Peninsula
