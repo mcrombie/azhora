@@ -3,7 +3,7 @@ name: Iberos Coast
 category: region
 tags: [coast, mediterranean, islands, Iberos Sea, trade, seafaring, Azhora, eastern]
 status: draft
-related: [Azhora, Moroshé Desert, East Pyros, Iberos Sea, Pebbles, Zoth, Nyross, Nylon, Svaleen, Ascarth, Elodi, Canon, Mittolo, Lizeem River]
+related: [Azhora, Moroshé Desert, East Pyros, Iberos Sea, Pebbles, Zoth, Nyross, Nylon, Svaleen, Ascarth, Legemum, Elodi, Canon, Mittolo, Lizeem River]
 ---
 
 # Iberos Coast
@@ -37,6 +37,8 @@ The most significant historical period of Iberos coastal civilization is called 
 **Selemis** — a midsized island at the southern mouth of the Iberos Sea, southwest of Ascarth across a narrow channel — is the home of the Selemi, the most successful maritime traders on the continent. Their power lies not in a navy or territorial holdings but in a distributed network of outposts at strategic ports across the sea, each giving Selemis leverage over the trade of the city that hosts it. Their independence from the Avites across the channel is precarious on the island and impossible to extinguish at sea. See the Selemis entry for detail.
 
 **Ascarth** — the peninsula southwest of Nylon — is home to the Avites, a warrior culture organized around heroic glory and bronze craftsmanship of a quality that outperforms iron in their hands. The peninsula's many small cities are often unified under the Kingdom of Ascarth when Aevis, the largest city, is powerful enough to compel it. When the Kingdom is strong, the coastal trade cities watch carefully. See the Ascarth entry for detail.
+
+**Legemum** — the peninsula immediately west of Ascarth, facing the open western ocean rather than the Iberos Sea — is Ascarth's quieter and less celebrated neighbor. No major cities; an economy organized around agriculture, mining, and open-ocean fishing. Its significance to the Iberos coast is primarily commercial and indirect: Legemum's tin mines supply a material input that Ascarth's famous bronze depends on, making the peninsula an upstream variable in the political and military calculations of every city that watches Ascarth. See the Legemum entry for detail.
 
 **Nylon** stands at the mouth of the Lizeem River, where the longest eastward-draining river of the Mittoli interior reaches the sea. It is neither the largest port on the coast nor the most strategically positioned, but it is by wide consensus the most intellectually significant city on Azhora — a city-state that has maintained independence not through military power but through being too commercially useful to conquer, and that has spent the resulting centuries developing a culture of philosophy and formal debate without rival on the continent. See the Nylon entry for detail.
 
