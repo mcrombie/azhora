@@ -3,7 +3,7 @@ name: Iberos Coast
 category: region
 tags: [coast, mediterranean, islands, Iberos Sea, trade, seafaring, Azhora, eastern]
 status: draft
-related: [Azhora, Moroshé Desert, East Pyros, Iberos Sea, Pebbles, Zoth, Nyross, Nylon, Svaleen, Elodi, Canon, Mittolo, Lizeem River]
+related: [Azhora, Moroshé Desert, East Pyros, Iberos Sea, Pebbles, Zoth, Nyross, Nylon, Svaleen, Ascarth, Elodi, Canon, Mittolo, Lizeem River]
 ---
 
 # Iberos Coast
@@ -33,6 +33,8 @@ The Iberos Coast has a history as layered as the Mediterranean climates produce 
 The coastal cities have never been unified under a single authority for long. The sea that connects them also gives each city the ability to trade independently, ally selectively, and withdraw into maritime isolation when land-based powers become inconvenient. The Mittoli heartland has periodically attempted to extend formal control over the coast and has consistently found the exercise more expensive than anticipated — the cities are easy to threaten and difficult to hold, and their populations have a habit of simply loading their most important assets onto ships when military situations become unfavorable.
 
 The most significant historical period of Iberos coastal civilization is called the First Island Age — a period roughly 1,200 to 1,800 years ago when the island communities were more powerful, more organized, and more outward-looking than they are now. Ruins on several of the larger islands suggest settlements of considerable size and sophistication from this period. What ended it is disputed; a combination of climatic shift, disease, and a series of conflicts over the outer island trade routes is the current scholarly consensus, but the coastal oral traditions speak of something more specific — an event, or a decision, that several communities made simultaneously and do not describe directly.
+
+**Ascarth** — the peninsula southwest of Nylon — is home to the Avites, a warrior culture organized around heroic glory and bronze craftsmanship of a quality that outperforms iron in their hands. The peninsula's many small cities are often unified under the Kingdom of Ascarth when Aevis, the largest city, is powerful enough to compel it. When the Kingdom is strong, the coastal trade cities watch carefully. See the Ascarth entry for detail.
 
 **Nylon** stands at the mouth of the Lizeem River, where the longest eastward-draining river of the Mittoli interior reaches the sea. It is neither the largest port on the coast nor the most strategically positioned, but it is by wide consensus the most intellectually significant city on Azhora — a city-state that has maintained independence not through military power but through being too commercially useful to conquer, and that has spent the resulting centuries developing a culture of philosophy and formal debate without rival on the continent. See the Nylon entry for detail.
 
