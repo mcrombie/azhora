@@ -1,7 +1,7 @@
 ---
 name: Azhora
 category: geography
-tags: [continent, homeland, civilization, forests, arid-east, rivers, known-world, Corav]
+tags: [continent, homeland, civilization, forests, arid-east, rivers, known-world, Corav, religion]
 status: draft
 related: [Corav, Mittolo, Northern Azhora, Pyros, Amod, Moroshé Desert, Iberos Coast, Bouén, The Plains, Languages of Azhora]
 ---
@@ -49,6 +49,14 @@ Azhora's major regions each have their own distinct geography, history, and cult
 - **Dinova** — the largest southern peninsula, the Meroshe desert interior, the Kingdom of Marosh, the commercial kingdom of Hama
 - **Bouén** — the cold southern peninsula, the Deep River current, the Azner Shores
 - **Oremindi Mountains** — the western spine, Himalayan scale, glaciated peaks, few inhabitants; the isolated city of Sevron and the Verath practice
+
+## Religious Landscape
+
+Azhora is religiously plural in a way that most of its peoples regard as ordinary. Cities have patron gods, households keep ancestral and threshold rites, roads and harbors have local powers, and major cults travel through wine, trade, pilgrimage, healing, military fame, or river work. Nearly every tradition also acknowledges a unified divine principle behind the gods: the enduring flow, the clear source, the all-witness, the first vastness, the deep before return. This principle is not usually treated as a rival to the gods. It is what makes divine plurality intelligible.
+
+The Elodi are the great exception. They accept that other powers may be real, but insist that the unified principle is a single sovereign authority and that all other powers are subordinate to it. This has made Elodi communities both vulnerable minorities in pluralist cities and hard-edged persecutors where Elodi institutions govern public religious space.
+
+The most widespread transregional cults are Thareth, whose wine rites cross class and region; Mithalenna of Minora, whose river, healing, birth, and restoration cult spreads through the Lizeem trade; and the many localized powers carried by sailors through the Iberos and western seas. Other traditions remain more regionally rooted: Pyrosi Fire Memory, Moroshe Qadimuur rites, Plains land-witness practice, Svaleen city cults, Avite heroic religion, Boueni return rites, Ibenwood relationship practice, and Sevron's Verath.
 
 ## What Lies Beyond
 

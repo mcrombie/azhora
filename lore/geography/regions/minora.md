@@ -1,9 +1,9 @@
 ---
 name: Minora
 category: geography
-tags: [Minora, Minorath, Lizeem, Mithala, Mittolo, megacity, river-city, trade, grain, bridges, flood, administration]
+tags: [Minora, Minorath, Lizeem, Mithala, Mittolo, megacity, river-city, trade, grain, bridges, flood, administration, Mithalenna, religion, cult]
 status: draft
-related: [Mittolo, Mithala, Lizeem River, Nylon, Caeras Valley Academy, Iberos Coast, Oremindi Mountains, Lotharn Mountains]
+related: [Mittolo, Mithala, Lizeem River, Nylon, Caeras Valley Academy, Iberos Coast, Oremindi Mountains, Lotharn Mountains, Religions of Azhora]
 ---
 
 # Minora
@@ -29,6 +29,68 @@ At Minora the river hesitates. The main current strikes a low rise of older grou
 The ground itself is layered. The Old Island sits on a slightly raised mass of compacted gravel, silt, ancient stonework, and human rebuilding. No one is certain how much of the island is natural. Excavations under the oldest municipal structures encounter worked stone below levels that should not contain it: embankment blocks, drainage courses, squared piers, and a kind of pale mortar not used in any known Mittoli building tradition. Minoran engineers do not enjoy discussing this with archaeologists while a bridge is open, because archaeologists have an instinct for asking questions at exactly the wrong time. The official position is that the island has been stabilized repeatedly across its history, which is true. Whether the first stabilization predates the First Silence is an open question. In Minora, open questions are tolerated as long as they do not interfere with water management.
 
 The first fork has shifted, but less than hydrology suggests it should have. The Lizeem is a living river; channels migrate, banks collapse, sediment accumulates, floods rewrite boundaries. Yet the main division has remained in approximately the same place across the written record. This stability is sometimes credited to the city's flood works. It is sometimes credited to the underlying geology of the island. Among old Mithali families, one also hears the phrase "the river remembers where to divide." This is not a scientific explanation, but neither is it entirely metaphorical. The city has worked for so long to keep the river dividing here that river and city are difficult to separate. The water has been trained. The question is by whom, and how long ago.
+
+---
+
+## The Cult of Mithalenna
+
+Minora is the home of **Mithalenna**, Lady of the First Division, Mother of Branches, Keeper of Names in Water, and Restorer of What Flood Takes.
+
+To outsiders she is often explained as a river goddess. Minorans tolerate this explanation because it is not exactly wrong and because correcting visitors takes time. Mithalenna is not simply the Lizeem, nor the flood, nor the fertility of the Mithala plain, though all of these are hers. She is the sacred act of division that does not become destruction. She is invoked when one river becomes many channels, when grain is divided into shares, when cargo is sorted without being lost, when a bridge load is separated safely across spans, when a child leaves the mother's body and both survive, when the living release the dead, and when a household split by inheritance remains one family in spite of the division.
+
+The central myth says that before Minora existed, the Lizeem descended from the interior as one enormous water, struck the flat country, and tried to spread everywhere at once. The plain drowned. Villages had no names because no place remained long enough to be named. Mithalenna came to the first rise of ground and placed both hands into the water. She did not dam it. She opened her fingers. Through the spaces between them the river learned branches, and through branches the plain learned fields, roads, ferry crossings, villages, mills, law, and return. This is why she is usually shown with seven long fingers or with seven bowls set before her. It is also why old Mithali ritual speech says the river did not submit to Minora. It agreed to be divided.
+
+The myth is not treated as a simple origin story. It is a civic theory. Minora's whole civilization rests on the idea that power becomes survivable when divided correctly.
+
+### The Temple of the Seven Bowls
+
+Mithalenna's chief temple stands on the Old Island around the old stone pier that shrine keepers call "where the river first agreed." Its formal name is the **Temple of the Seven Bowls**, though Minorans usually call it **the Bowls**. It is not the tallest religious building in Azhora, not the richest by ornament, and not architecturally graceful in the Svaleen sense. It is broad, low, flood-resistant, and built to be washed. Its lower stones are water-dark even in dry months. Its central doors face upstream.
+
+The temple's holy chamber is below street level. In most cities this would be a design flaw. In Minora it is theology. During ordinary seasons, the chamber remains dry except for the channels that feed the seven stone bowls at its center. During high flood years, water seeps or pours into the lower floor under controlled conditions, and the temple staff work all night by lamp to keep the inflow moving through the proper cuts. If the water rises into the bowl chamber but leaves without damage, the year is remembered as having been received. If it enters violently or brings sewage, oil, or bodies, the year is remembered differently.
+
+The seven bowls are carved from different stones brought from seven parts of the Lizeem system: upper mountain stone, forest river stone, Mithala siltstone, old island foundation stone, black flood clay fired almost to ceramic, Iberos coastal limestone, and a pale stone of uncertain origin that the temple claims was found beneath the Old Island during a repair after the Grey Flood. Water poured into the first bowl runs through channels into the others. The pattern of flow is watched carefully during major rites. Officially, the Bowl-Keepers do not issue hydrological predictions. Practically, river pilots, branch factors, farmers, and Flood Office clerks listen very closely to anything a senior Bowl-Keeper says after the rite.
+
+### Bowl-Keepers
+
+Mithalenna's clergy are called **Bowl-Keepers** in Standard Mittoli and **athreni** in old Mithali temple speech. They are priests, archivists, midwives, healers, flood witnesses, and sometimes political nuisances. A Bowl-Keeper is expected to know ritual language, flood history, branch geography, birth practice, funeral procedure, basic wound care, and enough accounting to detect when a merchant is making a pious donation with badly measured grain.
+
+The clergy include women, men, and people whose ritual role is described as "between banks." This has always been true in Minora. The cult's theology makes room for those who stand between categories because the goddess herself governs passage, separation, and recombination. Conservative visitors sometimes object. Minorans regard the objection as evidence that the visitor has not understood the river.
+
+There are three public orders within the cult:
+
+**The Pourers** conduct public rites, temple offerings, branch blessings, and festival processions. They are the face most visitors see.
+
+**The Name-Keepers** maintain the cult's records: water-names, funerary bowls, flood dedications, vows, healed injuries, difficult births, and the lists of those lost in specific flood years. Their archive is one of the largest non-governmental records in Minora.
+
+**The Lower Watch** keeps the night rites, controlled flood intake, initiation chambers, and the old passages below the temple. Outsiders know the least about them. Bridge Wardens know more than they admit.
+
+### Initiation
+
+Mithalenna's mystery initiation is called **Going Under the First Fork**.
+
+The initiate fasts from solid food for a day, drinks only measured water, and spends the afternoon copying their ordinary name seven times on dissolving paper. At dusk the papers are placed in shallow bowls and wetted until the ink runs. The initiate then descends into the lower temple with two Bowl-Keepers and one witness chosen from outside the cult. This witness may be a relative, a guild companion, a spouse, a creditor, an enemy under reconciliation, or in rare cases a Bridge Warden.
+
+What happens below is not described publicly. The permitted account says the initiate hears the first division myth in darkness, touches each bowl in sequence, and spends part of the night in a chamber through which cold river water moves below the knees. Before dawn the initiate emerges and receives a **water-name**, spoken once into a covered bowl and then sealed in the Name-Keepers' archive.
+
+The water-name is not a replacement for the ordinary name. It is a hidden branch of the person. It may be spoken in healing rites, childbirth, oath release, severe grief, and funerary ceremonies. If someone dies far from water, a family member can travel to any Mithalenna shrine and ask that the water-name be poured. The cult teaches that Mithalenna can find any branch if the name enters water correctly.
+
+### Healing, Birth, and Grief
+
+Mithalenna is beloved outside Minora because her cult is useful in the places where life breaks.
+
+Her healers specialize in rupture and restoration: difficult childbirth, broken bones, drowning survival, fever after flood, grief after sudden death, family division, and oath injuries. An oath injury is the Minoran term for the condition that follows when a person has sworn mutually incompatible obligations and cannot fulfill one without violating another. Nyloni philosophers have tried to borrow the term. Minoran Bowl-Keepers insist it is not a metaphor.
+
+Mithalenna's healing formulas ask pain to divide into bearable portions. A broken bone is set while the healer recites the names of the branches. A grieving family pours water between bowls while speaking what belongs to the dead and what must remain with the living. A woman in obstructed labor may be given the **Open Hand Rite**, in which seven women or cult attendants stand at the room's edges and speak the branch names in sequence while the midwife works. The rite is not gentle. It is considered powerful because it names the danger plainly and asks it to divide.
+
+The cult's reputation for healing has made it transregional. There are Mithalenna shrines in Nylon, Caeras, East Pyrosi market towns, Svaleen ports, Selemis outposts, Legemum mining settlements, Boueni harbors, and even a few desert caravanserais where water division is a matter of survival. These foreign shrines adapt the goddess to local needs while acknowledging Minora as the first seat. Once a year they send sealed bowls or water tokens back to the Temple of the Seven Bowls. The return cargo is large enough that an entire minor office exists to receive it.
+
+### Wealth and Suspicion
+
+The cult is wealthy. It owns riverfront property, receives grain shares from old families, stores emergency food, operates healing houses in the Low Bank, maintains lodging for pilgrims, and lends money through temple trusts at rates that are supposed to be merciful and sometimes are. Bowl-Keepers insist that wealth held for restoration is not ordinary wealth. Minoran satirists have written excellent songs about the difference.
+
+The Fork Council cannot ignore the cult. The cult cannot govern the city. This mutual limit has been tested repeatedly. During flood emergencies, the Temple of the Seven Bowls can mobilize volunteers faster than several civic offices. During grain shortages, its healing houses and food stores become politically sensitive. During succession disputes among old Mithali families, the Name-Keepers' archives may contain water-name evidence, birth records, vow records, or funerary testimony that changes inheritance. The cult therefore functions as a religious power, social welfare institution, archive, and pressure group.
+
+Relations with Elodi communities are especially tense. Some Elodi women and sailors quietly seek Mithalenna's aid. Elodi priests condemn this as submission to an unauthorized power. Minoran Bowl-Keepers reply that the river does not ask permission from foreign theology before saving a drowning person. This answer has not improved relations.
 
 ---
 

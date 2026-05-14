@@ -59,6 +59,7 @@ The human world. Not yet started as standalone documents.
 
 | Document | Status | Notes |
 |----------|--------|-------|
+| `lore/culture/azhoran_religions.md` | ✓ Done | Shared divine principle; Elodi exclusivism; Mithalenna cult; region-by-region gods and rites |
 | `lore/peoples/ganoss_clans.md` | — Planned | Northern upland clans; grammatical category for the northern continent's otherness; transition from raiding to trading |
 | `lore/peoples/desert_peoples.md` | — Planned | Oasis, canyon, and nomadic cultures; relationship to the ruins; what "those places belong to something else" actually means in practice |
 | `lore/peoples/boueni_people.md` | — Planned | The origin tradition; fog navigation culture; relationship to the Azner islanders; what they know about the substrate that they aren't saying |

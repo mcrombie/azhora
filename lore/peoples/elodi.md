@@ -1,9 +1,9 @@
 ---
 name: The Elodi
 category: peoples
-tags: [Elodi, Old Kingdom, religion, diaspora, Elod, Sea of Balog, scripture, migration, theology]
+tags: [Elodi, Old Kingdom, religion, diaspora, Elod, Sea of Balog, scripture, migration, theology, monolatry, persecution]
 status: draft
-related: [Azhora, Iberos Coast, northern_continent, languages, Pyros, The Plains]
+related: [Azhora, Iberos Coast, northern_continent, languages, Pyros, The Plains, Religions of Azhora]
 ---
 
 # The Elodi
@@ -13,6 +13,28 @@ The Elodi are not native to Azhora. They have lived here long enough that the di
 Across Azhora, Elodi communities can be found in most major cities and along trade routes, particularly in the east. They are merchants, scribes, archivists, and — in certain contexts — priests, though their priesthood is organized differently from any other Azhoran religious hierarchy and the title does not translate cleanly. In no region outside Elod are they the dominant population. They are present everywhere and centered nowhere, except for the one city they built for themselves, on the southeast tip of the continent, where the Iberos Sea meets open water.
 
 Most Azhorans, when they think about the Elodi at all, think of them as people with an unusual religion and a tendency to keep careful records. The unusual religion is more interesting than it appears.
+
+---
+
+## The Single Authority
+
+The Elodi do not deny that Azhoran gods, spirits, sacred places, and ritual powers exist. This is the first point outsiders usually misunderstand. An Elodi priest can watch a Mithalenna healing rite succeed, hear a Pyrosi fumarole answer a planting request, or read a Svaleen oath made before Laeron and accept that something real has happened.
+
+The dispute is not existence. The dispute is authority.
+
+Most Azhoran religions acknowledge a unified divine principle behind the gods: the enduring flow, the clear source, the all-witness, the first vastness, the deep before return. This principle is treated as the reality from which many gods and sacred powers arise. The Elodi position is sharper. To them the unified principle is not a background, not a philosophical reconciliation, and not a polite way to let many cults coexist. It is a single sovereign authority. All powers that exist do so beneath it, by its allowance, in rebellion against it, or in ignorance of their proper place.
+
+In ordinary Elodi speech this authority is called **Balog**, though the word carries several layers. Balog is the eternal divine authority. Balog is also the enthroned office at the center of the Old Kingdom. Balog is also, in the period of a reign, the human bearer who becomes that office completely. Elodi theologians distinguish these layers carefully: Balog beyond form, Balog enthroned, Balog incarnate. Non-Elodi listeners often hear contradiction. Elodi listeners hear necessary precision.
+
+This makes Elodi religion neither simple monotheism nor ordinary Azhoran polytheism. It is exclusive sovereignty. Other powers may be real; they are not rightful objects of ultimate loyalty. To pour wine to Thareth for courage may be tolerated by an Elodi merchant living abroad as a social courtesy. To bind oneself to Thareth is error. To ask Mithalenna for aid in childbirth may be understandable human desperation. To take her initiation is submission to an unauthorized branch of power. To swear by Laeron in a Solis court may be legally necessary. To believe Laeron's clarity stands beside Balog's authority as an equal truth is, to Elodi doctrine, false.
+
+This disagreement has made the Elodi both persecuted and persecuting.
+
+In most Azhoran cities, civic religion is part of citizenship. Refusal to sacrifice can look like refusal to belong. Elodi quarters have been attacked after floods, plagues, bad harvests, military defeats, and other crises in which a city's majority decided that the gods had been insulted by insufficient unity. Elodi archives preserve lists of smashed threshold lamps, burned scripture boxes, forced libations, expulsions from market rights, and children pressured to participate in local rites at school or apprenticeship.
+
+When Elodi institutions have power, they can be equally hard. In Elod, public worship of non-Elodi gods is forbidden in the inner districts around the Threshold. Foreign merchants in the harbor quarter may keep private household images, but they may not process with them through the old streets or ring public bells for them. Elodi families discovered maintaining Thareth cups, Mithalenna bowls, Svaleen sea images, or local ancestor masks inside the Elodi ritual calendar have been subject to correction, exclusion from certain communal records, and in severe historical cases expulsion from the protected districts. The Elodi word used in the records is usually "straightening." Their neighbors use harsher words.
+
+The pattern is old: outside Elod, Elodi communities ask to be left alone by civic cults that consider refusal dangerous; inside Elod, non-Elodi and syncretic households ask to be left alone by priests who consider religious mixture dangerous. Each side can describe itself as defending sacred order. Each side can point to injuries. Neither side is inventing the conflict.
 
 ---
 
@@ -115,6 +137,8 @@ The Caeras Valley Academy has no formal position on Elodi historical claims. Sev
 ## Summary of Key Points
 
 - The Elodi are a diaspora people with communities throughout Azhora; Elod, on Azhora's southeast peninsula, is the only city where they form a majority.
+- Elodi religion differs from most Azhoran traditions because it treats the unified divine principle as a single sovereign authority, not merely the shared source behind many legitimate gods.
+- The Elodi acknowledge that other powers may be real, but deny that they possess rightful ultimate authority. This has made them both targets of persecution in pluralist cities and persecutors of syncretic or non-Elodi practice where Elodi institutions control public space.
 - Their religion preserves detailed memory of a place called the Old Kingdom (*Erath-Kol* in ceremonial speech), which most Azhorans treat as mythology.
 - The Old Kingdom is described in scripture as a concentric civilization: Outer Wall → Outer Kingdom → Inner Wall → Inner Kingdom → Sea of Balog → Central Island, where Balog resides.
 - **Balog** is both the name of the sea and the divine title of the Emperor — each Emperor becomes Balog completely upon coronation, as an Egyptian pharaoh was understood to be divine rather than merely chosen by gods. The sea is named after him as a temple is named after its god.
