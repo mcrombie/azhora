@@ -3,7 +3,7 @@ name: Religions of Azhora
 category: culture
 tags: [religion, gods, cults, divine principle, Elodi, Thareth, Minora, Mithalenna, regional cults, Azhora]
 status: draft
-related: [Azhora, Mittolo, Minora, Svaleen Peninsula, Pyros, Moroshe Desert, The Plains, Bouen, Northern Azhora, Elodi, Viticulture and Wine Culture of Azhora]
+related: [Azhora, Mittolo, Minora, Svaleen Peninsula, Pyros, Moroshe Desert, The Plains, Bouen, Northern Azhora, Elodi, Viticulture and Wine Culture of Azhora, The 773 Physical Poses of the Verath]
 ---
 
 # Religions of Azhora
@@ -440,4 +440,3 @@ That difference is why the Elodi can be both vulnerable minority and hard-edged 
 - Are the ruins of the Moroshe claimed by gods, ancestors, former inhabitants, or something that does not fit any of those categories?
 - Do Ibenwood practices describe divine beings, personified ecology, or a form of relationship that makes that distinction useless?
 - Why do the oldest sacred places in Azhora so often involve memory: grass, trees, stone, rivers, names, records, and ruins?
-

@@ -3,7 +3,7 @@ name: The Oremindi Mountains
 category: geography
 tags: [Oremindi, mountains, Sevron, Verath, western Azhora, highland, isolated, sorcery, religion, practice]
 status: draft
-related: [Ibenale, Alezhor, Mittolo, Azhora, western forest, Sevron, Verath traditions]
+related: [Ibenale, Alezhor, Mittolo, Azhora, western forest, Sevron, Verath traditions, The 773 Physical Poses of the Verath]
 ---
 
 # The Oremindi Mountains
