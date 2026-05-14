@@ -1,9 +1,9 @@
 ---
 name: Mittolo
 category: region
-tags: [heartland, forest, temperate, fertile, central, civilization, Azhora, Lizeem, Minora, breadbasket, river-plains]
+tags: [heartland, forest, temperate, fertile, central, civilization, Azhora, Lizeem, Minora, breadbasket, river-plains, music]
 status: draft
-related: [Azhora, West Pyros, East Pyros, The Plains, Bay of Lol, Ganoss, Orched Hills, Oremindi Mountains, Minora, Iberos Coast]
+related: [Azhora, West Pyros, East Pyros, The Plains, Bay of Lol, Ganoss, Orched Hills, Oremindi Mountains, Minora, Iberos Coast, Musical Traditions of Mittolo]
 ---
 
 # Mittolo

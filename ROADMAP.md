@@ -60,6 +60,7 @@ The human world. Not yet started as standalone documents.
 | Document | Status | Notes |
 |----------|--------|-------|
 | `lore/culture/azhoran_religions.md` | ✓ Done | Shared divine principle; Elodi exclusivism; Mithalenna cult; region-by-region gods and rites |
+| `lore/culture/mittoli_music.md` | ✓ Done | Caelveth, Five Waters, instruments, notation, civic/folk/ritual repertories |
 | `lore/culture/verath_physical_poses.md` | ✓ Done | The 773-pose Verath narath canon: 17 Gates × 45 Forms + 8 Seals |
 | `lore/peoples/ganoss_clans.md` | — Planned | Northern upland clans; grammatical category for the northern continent's otherness; transition from raiding to trading |
 | `lore/peoples/desert_peoples.md` | — Planned | Oasis, canyon, and nomadic cultures; relationship to the ruins; what "those places belong to something else" actually means in practice |
