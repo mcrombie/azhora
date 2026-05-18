@@ -3,7 +3,7 @@ name: The Acorwood
 category: region
 tags: [Acorwood, forest, dense, dark, northern Azhora, barrier, ancient, old-growth, boundary, navigation, megafauna]
 status: draft
-related: [Northern Azhora, Oremindi Mountains, Cape Thalmagar, Ibenwood, Dark Groves, Mittolo, Orched Hills, Ganoss]
+related: [Northern Azhora, Oremindi Mountains, Cape Thalmagar, Ibenwood, Dark Groves, Mittolo, Orched Hills, Ganoss, Endevor]
 ---
 
 # The Acorwood
